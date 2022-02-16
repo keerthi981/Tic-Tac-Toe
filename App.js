@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import SquareComponent from "./modules/SquareComponent";
+import SquareComponent from "./SquareComponent";
 
 const clearState = ["", "", "", "", "", "", "", "", "", ""];
 
